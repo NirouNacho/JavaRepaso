@@ -1,9 +1,16 @@
 
 public class Rectangulo {
-	public int base;
-	public int altura;
+	private int base;
+	private int altura;
 	
 	
+	
+	
+	public Rectangulo(int base, int altura) {
+		this.base = base;
+		this.altura = altura;
+	}
+
 	public int calcularPerimetro()
 	{
 		int per=(2*base)+(2*altura);
