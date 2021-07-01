@@ -1,3 +1,4 @@
+package com.clearminds.entidades;
 
 public class Persona {
 	private String nombre;

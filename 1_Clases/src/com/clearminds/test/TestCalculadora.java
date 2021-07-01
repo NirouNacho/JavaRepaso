@@ -1,4 +1,6 @@
-
+package com.clearminds.test;
+import com.clearminds.conceptos.Calculadora;
+import com.clearminds.entidades.*;
 public class TestCalculadora {
 
 	public static void main(String[] args) {
@@ -11,6 +13,9 @@ public class TestCalculadora {
 		System.out.println("resultado = "+resultado);
 		
 		c.imprmir();
+		
+		Persona p;
+		Usuario u;
 		
 	}
 

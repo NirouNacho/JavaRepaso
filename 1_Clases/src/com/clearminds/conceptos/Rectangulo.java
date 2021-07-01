@@ -1,3 +1,4 @@
+package com.clearminds.conceptos;
 
 public class Rectangulo {
 	private int base;

@@ -1,4 +1,6 @@
-import javax.print.attribute.standard.PrinterMoreInfoManufacturer;
+package com.clearminds.test;
+
+import com.clearminds.conceptos.Rectangulo;
 
 public class TestRectangulo {
 

@@ -1,3 +1,4 @@
+package com.clearminds.entidades;
 
 public class Auto {
 	private String marca;

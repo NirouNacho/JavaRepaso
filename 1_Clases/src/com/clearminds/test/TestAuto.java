@@ -1,3 +1,5 @@
+package com.clearminds.test;
+import com.clearminds.entidades.Auto;
 
 public class TestAuto {
 
